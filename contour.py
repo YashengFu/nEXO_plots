@@ -19,5 +19,9 @@ Z = X**2+Y**2
 #plt.figure(figsize=(10,6))
 #填充颜色，f即filled
 plt.contourf(X,Y,Z)
+<<<<<<< HEAD
+=======
+#画等高线
+>>>>>>> c545dcbe35cc642dbb15859cce10728fdc047f79
 plt.contour(X,Y,Z)
 plt.show()
