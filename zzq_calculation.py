@@ -41,7 +41,6 @@ for i in np.arange(len(sigma)):
     #plt.plot(rangex1,rangey1_1,'r',rangex1,rangey1_2,'b--')
     #plt.title('display')
     #plt.scatter(sol1_fsolve,np.exp(C1*sol1_fsolve),linewidths=9)
-    #plt.yscale("log")
     #print(sol1_fsolve)
     #plt.show()
 
