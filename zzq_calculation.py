@@ -26,7 +26,7 @@ for i in np.arange(len(sigma)):
     
     #define function in you paper
     def f1(x):
-        return np.exp(C1*x)-C2*x-1-C2*(Ug[i]*sigma[i]-Sum[i])
+        return np.exp(C1*x)-C1*x-1-C2*(Ug[i]*sigma[i]-Sum[i])
 
     sol1_root = root(f1,[-10,2.5])
     sol1_fsolve = fsolve(f1,[-10,2.5])
@@ -49,6 +49,7 @@ plt.plot(Ug,result)
 plt.title('$U_g$ vs $V_0$')
 plt.xlabel('$U_g$')
 plt.ylabel('$V_0$')
+plt.savefig('./result.png')
 
 # plt.plot(Ug,sigma)
 # plt.title('$U_g$ vs $\sigma$')
