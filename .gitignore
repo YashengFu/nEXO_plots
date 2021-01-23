@@ -7,6 +7,10 @@ install.history
 *.pyc
 *.log
 *.root
+*.out
+*.err
+*.sh
+*.mac
 InstallArea
 amd64_linux26
 amd64_*
