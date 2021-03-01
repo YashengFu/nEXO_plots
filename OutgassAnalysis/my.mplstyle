@@ -1,0 +1,2 @@
+#axes.formatter.limits: -5, 3
+axes.formatter.use_mathtext: True
