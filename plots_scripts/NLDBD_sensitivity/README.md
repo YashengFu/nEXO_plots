@@ -23,3 +23,15 @@ KamLAND-Zen**  [[paper link]](https://iopscience.iop.org/article/10.1088/1742-65
 
 ### 5.nEXO
 ***Xe-136 Experiments, present and future***.  Gomez-Cadenas, Juan Jose [[neutrino 2020 report link]](https://indico.fnal.gov/event/43209/contributions/187835/attachments/129164/159241/nu200XeTPC4.pdf)
+
+### 6.LEGEND
+**The large enriched germanium experiment
+for neutrinoless double beta decay (LEGEND)**. [[paper link]](https://aip.scitation.org/doi/pdf/10.1063/1.5007652)
+
+***GERDA, MAJORANA and LEGEND***. Yoann	KERMAÏDIC [[neutrino 2020 
+report link]](https://indico.fnal.gov/event/43209/contributions/187846/attachments/129106/159515/20200701_Nu2020_Ge76_YoannKermaidic.pdf)
+
+***LEGEND offical Website***. [[Website link]](http://legend-exp.org/science/legend-pathway/legend-1000)
+##  Drawing reference article
+**Physics potential of searching for 0vββ decays in JUNO**. Jie Zhao, Liang-Jian Wen, Yi-Fang Wang, Jun Cao
+ [[paper link]](http://cpc.ihep.ac.cn/article/doi/10.1088/1674-1137/41/5/053001)
